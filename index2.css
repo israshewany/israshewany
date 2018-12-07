@@ -2,6 +2,9 @@ body{
 	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
+	font-family:monospace;
+	
+	
 }
 
 .page {
@@ -50,19 +53,22 @@ h1{
 }
 
 h2{
-  font-family:Georgia;
+  font-family:monospace;
 }
 
 .top-nav ul{
 	list-style-type:none;
+	text-decoration:none;
 }
 
 .top-nav ul li{
 	transition: all 300ms ease;
 	left:0px;
 	position:relative;
+	text-decoration:none;
 }
 
 .top-nav ul li:hover{
 	left: 4px;
+	text-decoration:none;
 }
