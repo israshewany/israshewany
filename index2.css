@@ -58,6 +58,7 @@ h2{
   font-family:monospace;
 }
 
+
 .top-nav ul{
 	list-style-type:none;
 	text-decoration:none;
@@ -78,4 +79,10 @@ h2{
 .top-nav ul li:hover{
 	left: 4px;
 	text-decoration:none;
+}
+
+
+video{
+	width:107%;
+	margin-left:-25px;
 }
