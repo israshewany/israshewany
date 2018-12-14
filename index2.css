@@ -50,6 +50,8 @@ h1{
 	margin: 20px;
 	padding: 10px 20px;
 	color: aliceblue;
+	margin-right: -50;
+    margin-left: -20;
 }
 
 h2{
