@@ -68,6 +68,11 @@ h2{
 	text-decoration:none;
 }
 
+.top-nav ul li a{
+	text-decoration:none; 
+}
+
+
 .top-nav ul li:hover{
 	left: 4px;
 	text-decoration:none;
