@@ -81,7 +81,8 @@ h2 {
 
 
 .page-nav {
-
+margin-left: -200px;
+    position: absolute;
 }
 
   .page-nav ul {
