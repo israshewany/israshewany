@@ -84,11 +84,14 @@ h2 {
 .page-nav {
 margin-left: -200px;
     position: absolute;
+	
 }
 
   .page-nav ul {
     list-style-type: none;
     padding-left: 20px;
+		 
+
 	
   }
 
@@ -97,14 +100,20 @@ margin-left: -200px;
       left: 0px;
       position: relative;
       line-height: 200%;
+	  	
+
 	 
     }
 
       .page-nav ul li:hover {
         left: 4px;
 		color: #6f717d;
+			 
+
       }
 
       .page-nav ul li a:visited {
         color: #6f717d;
+			
+
       }
