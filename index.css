@@ -7,6 +7,8 @@ html, body {
 
 .page {
   background-color: white;
+ 
+  
 }
 
 .nav-header {
@@ -17,6 +19,7 @@ html, body {
   width: 100%;
   height: 150px;
   position:relative;
+  
 }
 
 .main-nav {
@@ -47,6 +50,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
+   max-width: 75%;
 }
 
 
@@ -54,9 +58,7 @@ html, body {
   .page-content a {
 	  color: #6f717d;
 	  text-decoration: underline; 
-	  font-weight: bold;
-	   
-   
+	  font-weight: bold; 
   }
 
 h1 {
@@ -79,12 +81,13 @@ h2 {
 
 
 .page-nav {
- 
+
 }
 
   .page-nav ul {
     list-style-type: none;
     padding-left: 20px;
+	
   }
 
     .page-nav ul li {
@@ -92,6 +95,7 @@ h2 {
       left: 0px;
       position: relative;
       line-height: 200%;
+	 
     }
 
       .page-nav ul li:hover {
