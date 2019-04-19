@@ -11,7 +11,7 @@ html, body {
 
 .nav-header {
   background-image: url(https://thumbs.gfycat.com/SociableEmbellishedBallpython-size_restricted.gif);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   width: 100%;
@@ -23,21 +23,22 @@ html, body {
   width: 800px;
   margin-left: 200px;
   position: absolute;
-  bottom: 25px;
+ 
   
 }
 
   .main-nav a {
     display: inline-block;
-    border-radius: 5px 0px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
     border-bottom: 10px solid white;
     background-color: rgba(255, 255, 255, 0.64);
     color: black;
     text-decoration: none;
     padding: 5px 10px;
-    transition: bottom 300ms ease;
+    transition: bottom 500ms ease;
     position:relative;
-    bottom: 15px;
+	bottom: -115px;
+   
   }
 
     .main-nav a:hover {
